@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 - I am an enthusiastic and driven individual with a strong desire to learn. My skills in organization, presentation, and time management allow me to effectively communicate with people and pay attention to details. I demonstrate integrity, teamwork, dexterity, and leadership skills, making me well-suited for working in a professional setting. I have a proven ability to be strategic, tactical, and engage in critical thinking to solve complex problems.
 
 - 🔭 I’m currently working on an Hackathon.
-- 🌱 I’m currently learning Backend development with Python frameworks like Flask and Django, i'm also profound in JavaScript, Typescript and Frameworks like React/Next.js and also Redux/Redux Toolkit (State Management and Reducers)
-- 👯 I’m looking to collaborate on Fullstack web development, and Open-Source Projects
-- 💬 Ask me about Frontend Web Development.
+- 🌱 I’m currently building backend projects with Python frameworks like Flask and Django, I also have a profound knowledge of JavaScript, HTML and CSS for frontend web development.
 - 📫 How to reach me: vipascal99@gmail.com
 - 😄 Pronouns: he / his
 - 📫 you can reach me [@ihenkwaba](https://twitter.com/ihenkwaba) on twitter
