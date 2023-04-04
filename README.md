@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Frontend Web Development.
 - 📫 How to reach me: vipascal99@gmail.com
 - 😄 Pronouns: he / his
-- 📫 you can reach me @ihenkwaba on twitter
+- 📫 you can reach me [@ihenkwaba](https://twitter.com/ihenkwaba) on twitter
 
 ### Tools & Technologies
 ![Python](https://img.shields.io/badge/Python-2000FF?style=for-the-badge&logo=Python&logoColor=blue)
