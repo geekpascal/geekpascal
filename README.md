@@ -10,11 +10,11 @@
 Here are some ideas to get you started:
 -->
 
-> If you are here, you are probably wondering who Victor Pascal Dike is; 
+> If you are here and are wondering who Victor Pascal Dike Is, let me tell you; 
 
 - Pascal is a penultimate-year student at the Lagos State University, studying Electronics and Computer Engineering.
 
-- I am an enthusiastic and driven individual with a strong desire to learn. My skills in organization, presentation, and time management allow me to effectively communicate with people and pay attention to details. I demonstrate integrity, teamwork, dexterity, and leadership skills, making me well-suited for working in a professional setting. I have a proven ability to be strategic, tactical, and engage in critical thinking to solve complex problems.
+- And is also an enthusiastic and driven individual with a strong desire to learn. My skills in organization, presentation, and time management allow me to effectively communicate with people and pay attention to details. I demonstrate integrity, teamwork, dexterity, and leadership skills, making me well-suited for working in a professional setting. I have a proven ability to be strategic, tactical, and engage in critical thinking to solve complex problems.
 
 - 🔭 I’m currently looking out for internship opportunities; do send my way if you have any.
 - 🌱 I’m currently building backend projects with Python frameworks like Flask and Django, I also have a profound knowledge of JavaScript, HTML and CSS for frontend web development.
