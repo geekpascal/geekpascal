@@ -22,9 +22,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he / his
 - 📫 you can reach me [@ihenkwaba](https://twitter.com/ihenkwaba) on twitter
 
-### Certificate 
-[UDACITY PYTHON FOUNDATION NANODEGREE](https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/1db2acad-1009-46e0-bda2-ffb4b91936b4.pdf)
-
 ### Tools & Technologies
 ![Python](https://img.shields.io/badge/Python-2000FF?style=for-the-badge&logo=Python&logoColor=blue)
 ![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=Django&logoColor=white)
