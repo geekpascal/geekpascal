@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently looking out for internship opportunities; do send my way if you have any.
 - 🌱 I’m currently building backend projects with Python frameworks like Flask and Django, I also have a profound knowledge of JavaScript, HTML and CSS for frontend web development.
-- 📫 How to reach me: vipascal99@gmail.com
+- 📫 How to reach me: dikesta@gmail.com or vipascal99@gmail.com
 - 😄 Pronouns: he / his
 - 📫 you can reach me [@ihenkwaba](https://twitter.com/ihenkwaba) on twitter
 
