@@ -10,12 +10,11 @@
 Here are some ideas to get you started:
 -->
 
-> If you are here and are wondering who Victor Pascal Dike Is, let me tell you; 
+> Yh, Who am I? 
 
-- Pascal is a penultimate-year student at the Lagos State University, studying Electronics and Computer Engineering.
+- Pascal is a penultimate-year student at Lagos State University, studying Electronics and Computer Engineering.
 
-- And is also an enthusiastic and driven individual with a strong desire to learn. My skills in organization, presentation, and time management allow me to effectively communicate with people and pay attention to details. I demonstrate integrity, teamwork, dexterity, and leadership skills, making me well-suited for working in a professional setting. I have a proven ability to be strategic, tactical, and engage in critical thinking to solve complex problems.
-
+- Who is also an enthusiastic and driven individual with a strong desire to learn. 
 - 🔭 I’m currently looking out for internship opportunities; do send my way if you have any.
 - 🌱 I’m currently building backend projects with Python frameworks like Flask and Django, I also have a profound knowledge of JavaScript, HTML and CSS for frontend web development.
 - 📫 How to reach me: dikesta@gmail.com or vipascal99@gmail.com
@@ -38,9 +37,6 @@ Here are some ideas to get you started:
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-F05032?style=for-the-badge&logo=postman&logoColor=white)
 
-
-
-[![Pascal's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=geekpascal&custom_title=geekpascal's%20GitHub%20Activity%20Graph&bg_color=0e2239&text_color=58a6ff&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
   <h2> <strong> My Github Stats </strong> </h2>
