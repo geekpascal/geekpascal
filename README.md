@@ -14,7 +14,7 @@
 
 I’m a multidisciplinary technologist passionate about crafting intelligent, beautiful, and scalable applications. With a strong foundation in **machine learning**, **AI-powered backends**, and **user-focused frontend systems**, I turn ideas into working products fast.
 
-Currently building [**Career+**](#), an AI agent that analyzes your resume and boosts your career chances.
+Currently building [**Career+**](https://job-agent-cr9n.onrender.com/), an AI agent that analyzes your resume and boosts your career chances.
 
 ---
 
