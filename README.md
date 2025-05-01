@@ -65,13 +65,14 @@ Currently building [**Career+**](#), an AI agent that analyzes your resume and b
 
 ## 🧩 Featured Project: Career+
 
-🎯 **Career+** is an AI-powered agent that:
-- Reads your resume 📄  
-- Identifies weak spots 🔍  
-- Recommends improvements ✍️  
-- Uses NLP and vector search to match your profile with job descriptions
+🎯 **Career+** is an intelligent AI-powered resume analysis tool that:
+- 📄 Parses and extracts content from uploaded PDF resumes
+- 🔍 Analyzes resumes against job descriptions using Gemini models
+- ✍️ Recommends targeted improvements and keyword enhancements
+- 🌐 Leverages Tavily Search API for real-time company and role insights
+- 📊 Performs skill relevance matching and generates interview prep
 
-> Built using Python, Flask, Tailwind CSS, FastAPI, Gemini, LangChain, and OpenAI.
+> Built with Python, Flask, Tailwind CSS, Google Gemini API, Tavily API, and PyPDF2
 
 ---
 
