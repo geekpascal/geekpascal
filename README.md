@@ -4,13 +4,13 @@
 
 ## Hey, I'm Victor Pascal Dike 👋
 
-A Full-Stack Developer and AI Engineer based in Lagos, Nigeria. I specialize in crafting intelligent, scalable applications that solve real-world problems. My passion lies at the intersection of machine learning and user-focused design.
+A Full-Stack Developer and AI Engineer based in Lagos, Nigeria. I specialize in crafting intelligent, scalable applications that solve real-world problems. My passion lies at the intersection of machine learning and user-focused design. You can check my portfolio site [**Here**](https://pascal-portfolio-site.vercel.app/)
 
 ---
 
-### 🚀 Featured Project: Career+
+### 🚀 Featured Projects:
 
-[**Career+**](https://job-agent-cr9n.onrender.com/) is an AI-powered tool that analyzes resumes against job descriptions to provide targeted feedback and enhance your career opportunities.
+[**Here**](https://pascal-portfolio-site.vercel.app/projects) is where you can find all my featured projects.
 
 ---
 
