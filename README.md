@@ -8,6 +8,12 @@ A Full-Stack Developer and AI Engineer based in Lagos, Nigeria. I specialize in 
 
 ---
 
+### 🚀 Currently Building
+
+**[SKMRT](https://skmrt.shop)** - An AI-powered Shopify alternative designed specifically for the Nigerian market. SKMRT addresses Nigeria's unique market conditions and consumer behavior patterns, providing a tailored e-commerce solution that leverages AI to optimize the shopping experience for both merchants and customers.
+
+---
+
 ### 🚀 Featured Projects:
 
 [**Here**](https://pascal-portfolio-site.vercel.app/projects) is where you can find all my featured projects.
