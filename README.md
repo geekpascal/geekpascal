@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/Banners/Full%20Stack.gif?raw=true" alt="Full Stack Developer Banner" width="100%" />
-</p>
+
 
 <h1 align="center">Hi, I'm Victor Pascal Dike 👋</h1>
 
